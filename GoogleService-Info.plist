@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>220082684316-5l0idv1bal42bq1lvb72k2t83qtfe13e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.220082684316-5l0idv1bal42bq1lvb72k2t83qtfe13e</string>
+	<key>API_KEY</key>
+	<string>AIzaSyByPaNAKKDhBwYAkyR1vbVPEBcr0FAM95o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>220082684316</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.shrikantmergu123.myprojectnotify</string>
+	<key>PROJECT_ID</key>
+	<string>project-instagram-tutorials</string>
+	<key>STORAGE_BUCKET</key>
+	<string>project-instagram-tutorials.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:220082684316:ios:2d3f5c01e50a814ca80859</string>
+	<key>DATABASE_URL</key>
+	<string>https://project-instagram-tutorials-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

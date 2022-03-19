@@ -16,14 +16,27 @@
     "assetBundlePatterns": [
       "**/*"
     ],
-    "ios": {
-      "supportsTablet": true
-    },
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+      "useNextNotificationsApi": true,
+      "package": "com.shrikantmergu123.myprojectnotify",
+      "googleServicesFile": "./google-services.json",
+      "config": {
+        "googleSignIn": {
+          "apiKey": "AIzaSyBlR7ZkcjHvKNW6i8Ucl0kOqNOsdG64Tl8"
+        }
       }
+    },
+    "ios": {
+      "buildNumber": "1.0.0",
+      "supportsTablet": true,
+      "bundleIdentifier": "com.shrikantmergu123.myprojectnotify",
+      "config": {
+        "googleSignIn": {
+          "reservedClientId": "****"
+        },
+        "googleMapsApiKey": "****"
+      },
+      "googleServicesFile": "./GoogleService-Info.plist"
     },
     "web": {
       "favicon": "./assets/favicon.png"
